@@ -1,0 +1,10 @@
+[package]
+name = "mma-keygen"
+version = "0.1.0"
+edition = "2021"
+authors = ["lihe07"]
+description = "适用于 Mathematica 12.x 版本的注册机"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
