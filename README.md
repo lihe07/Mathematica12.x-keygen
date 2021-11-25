@@ -3,7 +3,7 @@
 
 ## 使用方法
 
-在 [Releases](/releases/) 页面下载最新版本的注册机
+在 [Releases](https://hub.fastgit.org/lihe07/Mathematica12.x-keygen/releases/) 页面下载最新版本的注册机
 
 使用官网安装包安装Mathematica 12.x版本，第一次启动时，会弹出注册界面。窗口如下：
 ![activwindow](images/activwindow.png)
