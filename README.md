@@ -3,8 +3,10 @@
 
 ## 使用方法
 
+在 [Releases](/releases/) 页面下载最新版本的注册机
+
 使用官网安装包安装Mathematica 12.x版本，第一次启动时，会弹出注册界面。窗口如下：
-![activwindow](images\activwindow.png)
+![activwindow](images/activwindow.png)
 
 1. 点击左下角 __"其他方式激活"__ - __"手动激活"__
 
